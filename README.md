@@ -63,13 +63,14 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 <a href="https://github.com/utensil?direction=desc&language=lean&sort=stars&tab=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://leanprover-community.github.io/img/community_logo_emb.svg" alt="Lean" title="Lean Theorem Prover" width="80" height="80"/></a>
 </p>
 
+<!--
+
 **Projects:** 
 
 | **Working on** | **Maintaining**  |
 |----------------|------------------|
 |[![pygae/lean-ga](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=pygae&repo=lean-ga)](https://github.com/pygae/lean-ga)|[![pygae/galgebra](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=pygae&repo=galgebra)](https://github.com/pygae/galgebra)|
 
-<!--
 | **Sharing**    | **Experimenting** |
 |----------------|-------------------|
 | [![utensil/utensil.github.io](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=utensil.github.io)](https://github.com/utensil/utensil.github.io) | [![utensil/lean-playground](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=lean-playground)](https://github.com/utensil/lean-playground)|
