@@ -35,7 +35,7 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 
 <p>
 <a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
-<a href=""><img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a>
+<!-- <a href=""><img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
 <a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=julia&sort=stars&tab=stars"><img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=python&sort=stars&tab=stars"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
