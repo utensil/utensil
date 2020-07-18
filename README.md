@@ -65,6 +65,14 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 
 **Projects:** 
 
-| **Working on** | **Maintaining** |
+| **Working on** | **Maintaining**  |
 |----------------|------------------|
 |[![pygae/lean-ga](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=pygae&repo=lean-ga)](https://github.com/pygae/lean-ga)|[![pygae/galgebra](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=pygae&repo=galgebra)](https://github.com/pygae/galgebra)|
+
+<!--
+| **Sharing**    | **Experimenting** |
+|----------------|-------------------|
+| [![utensil/utensil.github.io](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=utensil.github.io)](https://github.com/utensil/utensil.github.io) | [![utensil/lean-playground](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=lean-playground)](https://github.com/utensil/lean-playground)|
+| [![utensil/slides](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=slides)](https://github.com/utensil/slides) | [![utensil/julia-playground](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=julia-playground)](https://github.com/utensil/julia-playground)|
+| [![utensil/awesome-stars](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=awesome-stars)](https://github.com/utensil/awesome-stars) | [![utensil/rust-playground](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=utensil&repo=rust-playground)](https://github.com/utensil/rust-playground)|
+-->
