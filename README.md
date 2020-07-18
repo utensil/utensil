@@ -28,7 +28,7 @@
 Github is where I experiment with ideas, write stuff, and contribute to or create open-source projects out of personal interest. It's part of my spiritual life and totally unrelated to my professional career. I've been programming since my sixth grade, it connects me with the world: how things work, how I can interact with their internals and build stuff as how I imagine.
 
 <p align="center">
-<a href=""><img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="utensil" /></a>
+<a href=""><img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" /></a>
 </p>
 
 **Programming Languages:** 
@@ -67,4 +67,4 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 
 | **Working on** | **Maintaining** |
 |----------------|------------------|
-|[![pygae/lean-ga](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true&username=pygae&repo=lean-ga)](https://github.com/pygae/lean-ga)|[![pygae/galgebra](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true&username=pygae&repo=galgebra)](https://github.com/pygae/galgebra)|
+|[![pygae/lean-ga](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=pygae&repo=lean-ga)](https://github.com/pygae/lean-ga)|[![pygae/galgebra](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&show_owner=true&username=pygae&repo=galgebra)](https://github.com/pygae/galgebra)|
