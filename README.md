@@ -63,6 +63,8 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 <a href="https://github.com/utensil?direction=desc&language=lean&sort=stars&tab=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://leanprover-community.github.io/img/community_logo_emb.svg" alt="Lean" title="Lean Theorem Prover" width="80" height="80"/></a>
 </p>
 
+**Projects:** 
+
 | **Working on** | **Maintaining** |
 |----------------|------------------|
 |[![pygae/lean-ga](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true&username=pygae&repo=lean-ga)](https://github.com/pygae/lean-ga)|[![pygae/galgebra](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true&username=pygae&repo=galgebra)](https://github.com/pygae/galgebra)|
