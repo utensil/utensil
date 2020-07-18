@@ -57,6 +57,8 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 **Interests:** 
 
 <p>
-<a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc;border-radius: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/N_vector_positive.svg" alt="Geometric Algebra" width="80" height="80"/></a>
-<a href="https://github.com/utensil?direction=desc&language=lean&sort=stars&tab=stars"><img style="background-color: #e6e1dc;border-radius: 5px;" src="https://leanprover.github.io/images/lean_logo2.svg" alt="lean" width="160" height="80"/></a>
+<a href="https://github.com/htm-community/htm.core"><img style="background-color: white; padding: 5px 5px 5px 5px" src="https://avatars1.githubusercontent.com/u/1039191?s=200&v=4" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
+<a href="https://gitpitch.com/utensil/slides/master?p=ml#/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Scikit-learn_machine_learning_decision_tree.png" alt="Machine Learning" title="Machine Learning" width="80" height="80"/></a>
+<a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/N_vector_positive.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
+<a href="https://github.com/utensil?direction=desc&language=lean&sort=stars&tab=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://leanprover-community.github.io/img/community_logo_emb.svg" alt="Lean" title="Lean" width="80" height="80"/></a>
 </p>
