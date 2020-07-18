@@ -28,7 +28,7 @@
 Github is where I experiment with ideas, write stuff, and contribute to or create open-source projects out of personal interest. It's part of my spiritual life and totally unrelated to my professional career. I've been programming since my sixth grade, it connects me with the world: how things work, how I can interact with their internals and build stuff as how I imagine.
 
 <p align="center">
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=utensil&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="utensil" /></a>
+<a href=""><img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="utensil" /></a>
 </p>
 
 **Programming Languages:** 
@@ -62,3 +62,7 @@ Github is where I experiment with ideas, write stuff, and contribute to or creat
 <a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/N_vector_positive.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=lean&sort=stars&tab=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://leanprover-community.github.io/img/community_logo_emb.svg" alt="Lean" title="Lean Theorem Prover" width="80" height="80"/></a>
 </p>
+
+| **Working on** | **Maintaining** |
+|----------------|------------------|
+|[![pygae/lean-ga](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true&username=pygae&repo=lean-ga)](https://github.com/pygae/lean-ga)|[![pygae/galgebra](https://github-readme-stats-utensil.vercel.app/api/pin/?show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true&username=pygae&repo=galgebra)](https://github.com/pygae/galgebra)|
