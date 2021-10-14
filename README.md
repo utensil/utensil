@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Utensil
 
 <a href="https://github.com/utensil" class="text-white" title="Github">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="Github" width="24" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="24" height="24"/>
 </a>
 <a href="https://www.twitter.com/_utensil_" class="tooltipped tooltipped-se" aria-label="Twitter: _utensil_" title="Twitter">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="24" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="24" height="24"/>
 </a>
 <a href="http://utensil.github.io/tech/" class="text-white" title="技术博客">
 <img src="https://unpkg.com/octicons@8.5.0/build/svg/telescope.svg" width="24" height="24"/>
