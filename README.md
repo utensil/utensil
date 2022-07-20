@@ -60,7 +60,6 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <p>
 <a href="https://github.com/htm-community/htm.core"><img style="background-color: white; padding: 5px 5px 5px 5px" src="https://avatars1.githubusercontent.com/u/1039191?s=200&v=4" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
 <a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/N_vector_positive.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
-<a href="https://github.com/utensil?direction=desc&language=lean&sort=stars&tab=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://leanprover-community.github.io/img/community_logo_emb.svg" alt="Lean" title="Lean Theorem Prover" width="80" height="80"/></a>
 </p>
 
 <!--
