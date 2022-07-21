@@ -44,6 +44,8 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="http://railscasts.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a>
 </p>
 
+<img src="langs.svg" />
+
 <!-- **Tech Stack:**  -->
 
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=Visual+Studio+Code&logoColor=007ACC)
