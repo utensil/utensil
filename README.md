@@ -1,16 +1,16 @@
 ### 👋 Hi, I'm Utensil
 
 <a href="https://github.com/utensil" class="text-white" title="Github">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="24" height="24"/>
+<img src="images/github-original.svg" alt="Github" width="40" height="40"/>
 </a>
 <a href="https://www.twitter.com/_utensil_" class="tooltipped tooltipped-se" aria-label="Twitter: _utensil_" title="Twitter">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="24" height="24"/>
+<img src="images/twitter-original.svg" alt="Twitter" width="40" height="40"/>
 </a>
 <a href="http://utensil.github.io/tech/" class="text-white" title="技术博客">
-<img src="https://unpkg.com/octicons@8.5.0/build/svg/telescope.svg" width="24" height="24"/>
+<img src="images/telescope.svg" width="40" height="40"/>
 </a>
 <a href="http://utensil.github.io/writings/" class="text-white" title="文字博客">
-<img src="https://unpkg.com/octicons@8.5.0/build/svg/book.svg" width="24" height="24"/>
+<img src="images/book.svg" width="40" height="40"/>
 </a>
 <!-- <a href="https://stackoverflow.com/u/200764" class="tooltipped tooltipped-se" aria-label="Stack Overflow: 200764">
   <svg height="24" fill="#959da5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><path class="st0" d="M84.4 93.8V70.6h7.7v30.9H22.6V70.6h7.7v23.2z"></path><path class="st1" d="M38.8 68.4l37.8 7.9 1.6-7.6-37.8-7.9-1.6 7.6zm5-18l35 16.3 3.2-7-35-16.4-3.2 7.1zm9.7-17.2l29.7 24.7 4.9-5.9-29.7-24.7-4.9 5.9zm19.2-18.3l-6.2 4.6 23 31 6.2-4.6-23-31zM38 86h38.6v-7.7H38V86z"></path></svg>
@@ -60,8 +60,9 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 **Interests:** 
 
 <p>
-<a href="https://github.com/htm-community/htm.core"><img style="background-color: white; padding: 5px 5px 5px 5px" src="https://avatars1.githubusercontent.com/u/1039191?s=200&v=4" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
-<a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/N_vector_positive.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
+<a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="images/ga.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
+<a href="https://sophia.smith.edu/blog/barresilab/devidetorials/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/devbio.png" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
+<a href="https://github.com/htm-community/htm.core"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/numenta.png" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
 </p>
 
 <!--
