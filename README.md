@@ -44,7 +44,7 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
 </p>
 
-<p><img src="./images/langs.svg" /></p>
+<!-- <p><img src="./images/langs.svg" /></p> -->
 
 <!-- **Tech Stack:**  -->
 
