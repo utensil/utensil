@@ -34,14 +34,14 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 **Programming Languages:** 
 
 <p>
-<a href="https://leanprover.github.io/"><img src="https://leanprover.github.io/images/lean_logo.svg" alt="lean" width="80" height="80" style="background-color: #dee3ed"/></a>
-<a href="https://github.com/utensil?direction=desc&language=rust&sort=stars&tab=stars"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="80" height="80" style="background-color: #dee3ed"/></a>
-<a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80" style="background-color: #dee3ed"/></a>
-<a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80" style="background-color: #dee3ed"/></a>
-<a href="https://github.com/utensil?direction=desc&language=julia&sort=stars&tab=stars"><img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="80" height="80" style="background-color: #dee3ed"/></a>
-<a href="https://github.com/utensil?direction=desc&language=python&sort=stars&tab=stars"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80" style="background-color: #dee3ed"/></a>
-<a href="http://railscasts.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="80" height="80" style="background-color: #dee3ed"/></a>
-<!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80" style="background-color: #dee3ed"/></a> -->
+<a href="https://leanprover.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
+<a href="https://github.com/utensil?direction=desc&language=rust&sort=stars&tab=stars"><img src="images/rust-plain.svg" alt="rust" width="80" height="80"/></a>
+<a href="https://github.com/utensil?direction=desc&language=julia&sort=stars&tab=stars"><img src="images/julia-logo.svg" alt="julia" width="80" height="80"/></a>
+<a href="https://github.com/utensil?direction=desc&language=python&sort=stars&tab=stars"><img src="images/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
+<a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
+<a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="images/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
+<!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
 </p>
 
 <!-- <p><img src="./images/langs.svg" /></p> -->
