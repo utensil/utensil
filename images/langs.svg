@@ -1,0 +1,21 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        img {
+          background-color: white;
+        }
+      </style>
+      <p>
+      <a href="https://leanprover.github.io/"><img src="./lean-logo.svg" alt="lean" width="80" height="80"/></a>
+      <a href="https://github.com/utensil?direction=desc&amp;language=rust&amp;sort=stars&amp;tab=stars"><img src="./rust-plain.svg" alt="rust" width="80" height="80"/></a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="./cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
+      <a href="https://github.com/utensil?direction=desc&amp;language=javascript&amp;sort=stars&amp;tab=stars"><img src="./javascript-original.svg" alt="javascript" width="80" height="80"/></a>
+      <a href="https://github.com/utensil?direction=desc&amp;language=julia&amp;sort=stars&amp;tab=stars"><img src="./julia-logo.svg" alt="julia" width="80" height="80"/></a>
+      <a href="https://github.com/utensil?direction=desc&amp;language=python&amp;sort=stars&amp;tab=stars"><img src="./python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
+      <a href="http://railscasts.com/"><img src="./ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a>
+      <!-- <a href=""><img src="./java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
+      </p>
+    </div>
+  </foreignObject>
+</svg>
