@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Utensil Song
+### 👋 Hi, I'm Utensil
 
 <a href="https://github.com/utensil" class="text-white" title="Github">
 <img src="images/github-original.svg" alt="Github" width="40" height="40"/>
