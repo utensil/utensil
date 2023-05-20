@@ -61,6 +61,7 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 
 <p>
 <a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="images/ga.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
+<a href="https://www.cs.cmu.edu/~kmcrane/"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="images/geodesic_distance-icon.jpg" alt="Discrete Differential Geometry" title="Discrete Differential Geometry" width="80" height="80"/></a>
 <a href="https://sophia.smith.edu/blog/barresilab/devidetorials/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/devbio.png" alt="Developmental Biology" title="Developmental Biology" width="80" height="80"/></a>
 <a href="https://www.numenta.com/resources/research-publications/papers/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/numenta.png" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
 </p>
