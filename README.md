@@ -68,7 +68,7 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://github.com/topics/geometric-algebra?o=desc&s=stars"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="images/ga.svg" alt="Geometric Algebra" title="Geometric Algebra" width="80" height="80"/></a>
 <a href="https://www.cs.cmu.edu/~kmcrane/"><img style="background-color: #e6e1dc; padding: 5px 5px 5px 5px" src="images/geodesic_distance-icon.jpg" alt="Discrete Differential Geometry" title="Discrete Differential Geometry" width="80" height="80"/></a>
 <a href="https://web.archive.org/web/20170825105003/http://11e.devbio.com/index.html"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/devbio.png" alt="Developmental Biology" title="Developmental Biology" width="80" height="80"/></a>
-<a href="https://www.izhikevich.org/publications/dsn/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/forced-duffing-oscillator.svg" alt="Dynamical systems" title="Dynamics" width="80" height="80"/></a>
+<a href="https://www.izhikevich.org/publications/dsn/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/forced-duffing-oscillator.svg" alt="Dynamical systems" title="Dynamical systems" width="80" height="80"/></a>
 <a href="https://www.numenta.com/resources/research-publications/papers/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/numenta.png" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
 <a href="https://github.com/gjoncas/Lacan-Mathemes"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/Lacan-Desire.png" alt="Lacan" title="Lacan" width="80" height="80"/></a>
 </p>
