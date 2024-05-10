@@ -36,7 +36,7 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://github.com/utensil"><img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" /></a>
 </p>
 
-**Programming Languages:** 
+**Programming Languages in use:** 
 
 <p>
 <a href="https://leanprover.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
@@ -47,6 +47,15 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="images/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
 <!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
+</p>
+
+**Programming Languages to learn:** 
+
+<p>
+<a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
+<a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="elixir" width="80" height="80"/></a>
+<a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt="elixir" width="80" height="80"/></a>
+<!-- <a href="https://clojure.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt="clojure" width="80" height="80"/></a> -->
 </p>
 
 <!-- <p><img src="./images/langs.svg" /></p> -->
