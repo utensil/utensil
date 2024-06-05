@@ -1,20 +1,20 @@
 ### 👋 Hi, I'm Utensil
 
-<div style="background-color: white">
-<a href="https://github.com/utensil" class="text-white" title="Github">
+<div style="">
+<a href="https://github.com/utensil" class="" title="Github">
 <img src="images/github-original.svg" alt="Github" width="40" height="40"/>
 </a>
-<a href="https://www.twitter.com/_utensil_" class="tooltipped tooltipped-se" aria-label="Twitter: _utensil_" title="Twitter">
+<a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter">
 <img src="images/twitter-original.svg" alt="Twitter" width="40" height="40"/>
 </a>
-<a href="http://utensil.github.io/tech/" class="text-white" title="技术博客">
+<a href="http://utensil.github.io/tech/" class="" title="技术博客">
 <img src="images/telescope.svg" width="40" height="40"/>
 </a>
-<a href="http://utensil.github.io/writings/" class="text-white" title="文字博客">
+<a href="http://utensil.github.io/writings/" class="" title="文字博客">
 <img src="images/book.svg" width="40" height="40"/>
 </a>
-<a href="https://github.com/utensil/poems/releases/tag/v0.0.2" class="text-white" title="诗选">
-<img src="images/ink.png" width="40" height="40"/>
+<a href="https://github.com/utensil/poems/releases/tag/v0.0.2" class="" title="诗选">
+<img src="images/quill-ink-svgrepo-com.svg" width="40" height="40"/>
 </a>
 </div>
 <!-- <a href="https://stackoverflow.com/u/200764" class="tooltipped tooltipped-se" aria-label="Stack Overflow: 200764">
