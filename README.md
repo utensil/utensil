@@ -38,7 +38,7 @@
 
 Github is where I explore ideas, write stuff, contribute to or create open-source projects out of personal interest. It's part of my spiritual life, independent of my professional career. I've been coding since my 6th grade (1999), coding connects me with the world: how things work, how I can interact with their internals and build things as how I imagine.
 
-<p align="center">
+<p>
 <a href="https://github.com/utensil"><img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" /></a>
 </p>
 
