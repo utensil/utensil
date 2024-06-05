@@ -52,6 +52,7 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 **Programming Languages to learn:** 
 
 <p>
+<a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
 <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
 <a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="elixir" width="80" height="80"/></a>
 <a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
