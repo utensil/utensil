@@ -2,10 +2,10 @@
 
 <div style="">
 <a href="https://github.com/utensil" class="" title="Github">
-<img src="images/github-original.svg" alt="Github" width="40" height="40"/>
+<img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/>
 </a>
 <a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter">
-<img src="images/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+<img src="images/twitter-color-svgrepo-com.svg" alt="Twitter" width="40" height="40"/>
 </a>
 <a href="http://utensil.github.io/blog/" class="" title="Math Blog">
 <img src="images/notebook-pen-svgrepo-com.svg" width="40" height="40"/>
