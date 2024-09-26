@@ -39,7 +39,10 @@
 Github is where I explore ideas, write stuff, contribute to or create open-source projects out of personal interest. It's part of my spiritual life, independent of my professional career. I've been coding since my 6th grade (1999), coding connects me with the world: how things work, how I can interact with their internals and build things as how I imagine.
 
 <p>
-<a href="https://github.com/utensil"><img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" /></a>
+<a href="https://github.com/utensil">
+<img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utensil&layout=compact&hide=Jupyter%20Notebook,vim%20script,Mathematica,C%23,javascript,typescript,coffeescript,jinja,jq,d2,css,less,vue,ruby,shell,makefile,cmake,xslt,haml,glsl,scss,erlang,c,html,typst,dockerfile,sed" /> -->
+</a>
 </p>
 
 **Programming Languages in use:** 
@@ -49,8 +52,8 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://github.com/utensil?direction=desc&language=rust&sort=stars&tab=stars"><img src="images/rust-plain.svg" alt="rust" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=julia&sort=stars&tab=stars"><img src="images/julia-logo.svg" alt="julia" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=python&sort=stars&tab=stars"><img src="images/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
-<a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a>
-<a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
+<!-- <a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a> -->
 <a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="images/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
 <!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
 </p>
