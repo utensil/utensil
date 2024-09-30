@@ -48,14 +48,15 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 **Programming Languages in use:** 
 
 <p>
-<a href="https://leanprover.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
-<a href="https://github.com/utensil?direction=desc&language=rust&sort=stars&tab=stars"><img src="images/rust-plain.svg" alt="rust" width="80" height="80"/></a>
-<a href="https://github.com/utensil?direction=desc&language=julia&sort=stars&tab=stars"><img src="images/julia-logo.svg" alt="julia" width="80" height="80"/></a>
-<a href="https://github.com/utensil?direction=desc&language=python&sort=stars&tab=stars"><img src="images/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
+<a href="https://leanprover-community.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
+<a href="https://www.rust-lang.org/"><img src="images/rust-plain.svg" alt="rust" width="80" height="80"/></a>
+<a href="https://julialang.org/"><img src="images/julia-logo.svg" alt="julia" width="80" height="80"/></a>
+<a href="https://www.python.org/"><img src="images/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
 <!-- <a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3386320"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a> -->
 <a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="images/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
-<!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> -->
+<!-- https://web.dev/javascript https://nodejs.org/ https://bun.sh/ -->
+<!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> --> 
 </p>
 
 **Programming Languages to learn:** 
