@@ -50,12 +50,13 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <p>
 <a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
 <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
-<a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="elixir" width="80" height="80"/></a>
+<a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a>
 <a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
 <a href="https://elm-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elm/elm-original.svg" alt="elm" width="80" height="80"/></a>
 <a href="https://nim-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" alt="nim" width="80" height="80"/></a>
 <a href="https://www.roc-lang.org/"><img src="images/roc-logo.svg" alt="roc" width="80" height="80"/></a>
-<a href="https://odin-lang.org/"><img src="https://odin-lang.org/logo.svg" alt="elm" width="80" height="80"/></a>
+<a href="https://odin-lang.org/"><img src="https://odin-lang.org/logo.svg" alt="odin" width="80" height="80"/></a>
+<a href="https://gleam.run/"><img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="80" height="80"/></a>
 <!-- <a href="https://clojure.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt="clojure" width="80" height="80"/></a> -->
 </p>
 
