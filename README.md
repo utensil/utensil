@@ -3,9 +3,9 @@
 <div style="">
 <a href="https://github.com/utensil" class="" title="Github"><img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/></a>
 <a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter"><img src="images/twitter-color-svgrepo-com.svg" alt="Twitter" width="40" height="40"/></a>
+<a href="http://utensil.github.io/forest/index.xml" class="" title="Math Notes"><img src="images/library-book-svgrepo-com.svg" width="40" height="40"/></a>
 <a href="http://utensil.github.io/blog/" class="" title="Math Blog"><img src="images/notebook-pen-svgrepo-com.svg" width="40" height="40"/></a>
-<a href="http://utensil.github.io/forest/" class="" title="Math Notes"><img src="images/library-book-svgrepo-com.svg" width="40" height="40"/></a>
-<a href="http://utensil.github.io/tech/" class="" title="Tech Blog(技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a>
+<!-- <a href="http://utensil.github.io/tech/" class="" title="Tech Blog(技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a> -->
 <a href="http://utensil.github.io/writings/" class="" title="My writings(文字博客)"><img src="images/open-book-book-svgrepo-com.svg" width="40" height="40"/></a>
 <a href="https://github.com/utensil/poems/releases/tag/v0.0.2" class="" title="My Poems(诗选)"><img src="images/quill-ink-svgrepo-com.svg" width="40" height="40"/></a>
 </div>
