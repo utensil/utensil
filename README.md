@@ -7,7 +7,7 @@
 <a href="http://utensil.github.io/blog/" class="" title="My Math Blog"><img src="images/notebook-pen-svgrepo-com.svg" width="40" height="40"/></a>
 <!-- <a href="http://utensil.github.io/tech/" class="" title="Tech Blog(技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a> -->
 <a href="http://utensil.github.io/writings/" class="" title="My writings(文字博客)"><img src="images/open-book-book-svgrepo-com.svg" width="40" height="40"/></a>
-<a href="https://github.com/utensil/poems/releases/tag/v0.0.2" class="" title="My Poems(诗选)"><img src="images/quill-ink-svgrepo-com.svg" width="40" height="40"/></a>
+<a href="https://github.com/utensil/poems/releases/tag/2025.04.13" class="" title="My Poems(诗选)"><img src="images/quill-ink-svgrepo-com.svg" width="40" height="40"/></a>
 <a href="https://utensil.bearblog.dev/" class="" title="My Bare Texts"><img src="images/bear-svgrepo-com.svg" width="40" height="40"/></a>
 </div>
 <!-- <a href="https://stackoverflow.com/u/200764" class="tooltipped tooltipped-se" aria-label="Stack Overflow: 200764">
