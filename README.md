@@ -50,11 +50,11 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 
 <p>
 <a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
-<!-- <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
-<a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a> -->
+<a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
+<!-- <a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a> -->
 <a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
 <a href="https://www.uiua.org/"><img src="images/uiua-logo.png" alt="uiua" width="80" height="80"/></a>
-<a href="https://wesl-lang.dev/"><img src="images/wesl-logo.svg" alt="wesl" width="80" height="80"/></a>
+<!-- <a href="https://wesl-lang.dev/"><img src="images/wesl-logo.svg" alt="wesl" width="80" height="80"/></a>
 <!-- <a href="https://vlang.io/"><img src="https://cdn.jsdelivr.net/gh/vlang/v-logo@master/dist/v-logo.svg" alt="v" width="80" height="80"/></a> -->
 <!-- <a href="https://shader-slang.com/"><img src="images/slang-logo.svg" alt="slang" width="80" height="80"/></a>   -->
 <!-- <a href="https://elm-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elm/elm-original.svg" alt="elm" width="80" height="80"/></a> -->
