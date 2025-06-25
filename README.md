@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Utensil
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/201v2.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 <div style="">
 <a href="https://github.com/utensil" class="" title="Github"><img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/></a>
 <a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter"><img src="images/twitter-color-svgrepo-com.svg" alt="Twitter" width="40" height="40"/></a>
