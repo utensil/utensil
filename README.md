@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Utensil
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/201v2.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/201v2.svg)](https://utensil.betteruptime.com/?utm_source=status_badge)
 
 <div style="">
 <a href="https://github.com/utensil" class="" title="Github"><img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/></a>
