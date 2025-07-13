@@ -40,10 +40,11 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://leanprover-community.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
 <a href="https://www.rust-lang.org/"><img src="images/rust-plain.svg" alt="rust" width="80" height="80"/></a>
 <a href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="80" height="80"/></a>
-<a href="https://en.cppreference.com/"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a> <!-- https://dl.acm.org/doi/abs/10.1145/3386320 -->
+<a href="https://en.cppreference.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
+  <!-- https://dl.acm.org/doi/abs/10.1145/3386320 -->
 <!-- <a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a> -->
-<a href="https://www.python.org/"><img src="images/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
-<a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="images/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
+<a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
 <!-- https://web.dev/javascript https://nodejs.org/ https://bun.sh/ -->
 <!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> --> 
 </p>
