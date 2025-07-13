@@ -39,7 +39,7 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <p>
 <a href="https://leanprover-community.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
 <a href="https://www.rust-lang.org/"><img src="images/rust-plain.svg" alt="rust" width="80" height="80"/></a>
-<a href="https://julialang.org/"><img src="images/julia-logo.svg" alt="julia" width="80" height="80"/></a>
+<a href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="80" height="80"/></a>
 <a href="https://en.cppreference.com/"><img src="images/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a> <!-- https://dl.acm.org/doi/abs/10.1145/3386320 -->
 <!-- <a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a> -->
 <a href="https://www.python.org/"><img src="images/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
