@@ -56,16 +56,19 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
 <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
 <!-- <a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a> -->
+<a href="https://gleam.run/"><img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="80" height="80"/></a>
 <a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
+<a href="https://janet-lang.org/"><img src="https://cdn.jsdelivr.net/gh/janet-lang/janet@master/assets/janet-w200.png" alt="janet" width="80" height="80"/></a>
+<!-- <a href="https://jank-lang.org/"><img src="https://jank-lang.org/img/logo-transparent.png" alt="jank" width="80" height="80"/></a> -->
 <a href="https://www.uiua.org/"><img src="images/uiua-logo.png" alt="uiua" width="80" height="80"/></a>
-<!-- <a href="https://wesl-lang.dev/"><img src="images/wesl-logo.svg" alt="wesl" width="80" height="80"/></a>
+<!-- <a href="https://flix.dev/"><img src="https://cdn.jsdelivr.net/gh/flix/flix@master/docs/logo.png" alt="flix" height="80"/></a>
+<!-- <a href="https://wesl-lang.dev/"><img src="images/wesl-logo.svg" alt="wesl" width="80" height="80"/></a> -->
 <!-- <a href="https://vlang.io/"><img src="https://cdn.jsdelivr.net/gh/vlang/v-logo@master/dist/v-logo.svg" alt="v" width="80" height="80"/></a> -->
 <!-- <a href="https://shader-slang.com/"><img src="images/slang-logo.svg" alt="slang" width="80" height="80"/></a>   -->
 <!-- <a href="https://elm-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elm/elm-original.svg" alt="elm" width="80" height="80"/></a> -->
 <!-- <a href="https://nim-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" alt="nim" width="80" height="80"/></a>
 <!-- <a href="https://www.roc-lang.org/"><img src="images/roc-logo.svg" alt="roc" width="80" height="80"/></a> -->
 <!-- <a href="https://odin-lang.org/"><img src="https://odin-lang.org/logo.svg" alt="odin" width="80" height="80"/></a> -->
-<!-- <a href="https://gleam.run/"><img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="80" height="80"/></a>
 <!-- <a href="https://clojure.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt="clojure" width="80" height="80"/></a> -->
 </p>
 
