@@ -1,11 +1,14 @@
 ### 👋 Hi, I'm Utensil
 
+[![](https://img.shields.io/badge/__utensil__-000000?logo=x&logoColor=white&style=flat)](https://www.twitter.com/_utensil_)
+[![](https://img.shields.io/badge/utensil-6364FF?logo=Mastodon&logoColor=white&style=flat)](https://mathstodon.xyz/@utensil)
+[![](https://img.shields.io/badge/iutensil-0285FF?logo=bluesky&logoColor=fff&style=flat)](https://bsky.app/profile/iutensil.bsky.social)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/201v2.svg)](https://utensil.betteruptime.com/?utm_source=status_badge)
 
 <div style="">
 <a href="https://github.com/utensil" class="" title="Github"><img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/></a>
-<a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter"><img src="images/twitter-color-svgrepo-com.svg" alt="Twitter" width="40" height="40"/></a>
-<a href="http://utensil.github.io/forest/index.xml" class="" title="My Math Notes"><img src="images/library-book-svgrepo-com.svg" width="40" height="40"/></a>
+<!-- <a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter"><img src="images/twitter-color-svgrepo-com.svg" alt="Twitter" width="40" height="40"/></a>
+<a href="http://utensil.github.io/forest/index.xml" class="" title="My Math Notes"><img src="images/library-book-svgrepo-com.svg" width="40" height="40"/></a> -->
 <a href="http://utensil.github.io/blog/" class="" title="My Math Blog"><img src="images/notebook-pen-svgrepo-com.svg" width="40" height="40"/></a>
 <!-- <a href="http://utensil.github.io/tech/" class="" title="Tech Blog(技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a> -->
 <a href="http://utensil.github.io/writings/" class="" title="My writings(文字博客)"><img src="images/open-book-book-svgrepo-com.svg" width="40" height="40"/></a>
