@@ -57,8 +57,8 @@ Github is where I explore ideas, write stuff, contribute to or create open-sourc
 <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
 <!-- <a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a> -->
 <a href="https://gleam.run/"><img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="80" height="80"/></a>
-<a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
-<a href="https://janet-lang.org/"><img src="https://cdn.jsdelivr.net/gh/janet-lang/janet@master/assets/janet-w200.png" alt="janet" width="80" height="80"/></a>
+<!-- <a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
+<a href="https://janet-lang.org/"><img src="https://cdn.jsdelivr.net/gh/janet-lang/janet@master/assets/janet-w200.png" alt="janet" width="80" height="80"/></a> -->
 <!-- <a href="https://jank-lang.org/"><img src="https://jank-lang.org/img/logo-transparent.png" alt="jank" width="80" height="80"/></a> -->
 <a href="https://www.uiua.org/"><img src="images/uiua-logo.png" alt="uiua" width="80" height="80"/></a>
 <!-- <a href="https://flix.dev/"><img src="https://cdn.jsdelivr.net/gh/flix/flix@master/docs/logo.png" alt="flix" height="80"/></a>
