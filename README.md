@@ -51,25 +51,27 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="80" height="80"/></a>
 <a href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="80" height="80"/></a>
 <a href="https://en.cppreference.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
-  <!-- https://dl.acm.org/doi/abs/10.1145/3386320 -->
-<!-- <a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a> -->
+
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80"/></a>
 <a href="https://github.com/utensil?direction=desc&language=javascript&sort=stars&tab=stars"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
+</p>
+<!-- https://dl.acm.org/doi/abs/10.1145/3386320 -->
+<!-- <a href="http://railscasts.com/"><img src="images/ruby-original-wordmark.svg" alt="ruby" width="80" height="80"/></a> -->
 <!-- https://web.dev/javascript https://nodejs.org/ https://bun.sh/ -->
 <!-- <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/></a> --> 
-</p>
 
 **Programming Languages to learn:** 
 
 <p>
 <a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
 <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
-<!-- <a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a> -->
 <a href="https://gleam.run/"><img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="80" height="80"/></a>
+<a href="https://www.uiua.org/"><img src="images/uiua-logo.png" alt="uiua" width="80" height="80"/></a>
+</p>
+<!-- <a href="https://github.com/aya-prover/aya-dev"><img src="https://cdn.jsdelivr.net/gh/aya-prover/aya-prover.github.io/logo.svg" alt="aya" width="80" height="80"/></a> -->
 <!-- <a href="https://elixir-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="elixir" width="80" height="80"/></a>
 <a href="https://janet-lang.org/"><img src="https://cdn.jsdelivr.net/gh/janet-lang/janet@master/assets/janet-w200.png" alt="janet" width="80" height="80"/></a> -->
 <!-- <a href="https://jank-lang.org/"><img src="https://jank-lang.org/img/logo-transparent.png" alt="jank" width="80" height="80"/></a> -->
-<a href="https://www.uiua.org/"><img src="images/uiua-logo.png" alt="uiua" width="80" height="80"/></a>
 <!-- <a href="https://flix.dev/"><img src="https://cdn.jsdelivr.net/gh/flix/flix@master/docs/logo.png" alt="flix" height="80"/></a>
 <!-- <a href="https://wesl-lang.dev/"><img src="images/wesl-logo.svg" alt="wesl" width="80" height="80"/></a> -->
 <!-- <a href="https://vlang.io/"><img src="https://cdn.jsdelivr.net/gh/vlang/v-logo@master/dist/v-logo.svg" alt="v" width="80" height="80"/></a> -->
@@ -79,7 +81,6 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 <!-- <a href="https://www.roc-lang.org/"><img src="images/roc-logo.svg" alt="roc" width="80" height="80"/></a> -->
 <!-- <a href="https://odin-lang.org/"><img src="https://odin-lang.org/logo.svg" alt="odin" width="80" height="80"/></a> -->
 <!-- <a href="https://clojure.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt="clojure" width="80" height="80"/></a> -->
-</p>
 
 <!-- <p><img src="./images/langs.svg" /></p> -->
 
