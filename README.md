@@ -33,9 +33,9 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 
 [GitHub](https://github.com/utensil) was my only public code forge, and now I'm also partially on:
 
-- [Tangled](https://tangled.org/@iutensil.bsky.social)
-- [Codeberg](https://codeberg.org/utensil)
+- [Tangled](https://tangled.org/utensil.tngl.sh/)
 - [Radicle](https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did%3Akey%3Az6Mkoi6L46Tr54sMQmctod6Q43VjYyLwBh8VwJvftMZwdiHt)
+<!-- - [Codeberg](https://codeberg.org/utensil) -->
 
 <p>
 <a href="https://github.com/utensil">
