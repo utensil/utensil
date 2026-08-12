@@ -9,11 +9,11 @@
 <a href="https://github.com/utensil" class="" title="Github"><img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/></a>
 <!-- <a href="https://www.twitter.com/_utensil_" class="" aria-label="Twitter: _utensil_" title="Twitter"><img src="images/twitter-color-svgrepo-com.svg" alt="Twitter" width="40" height="40"/></a> -->
 <a href="http://utensil.github.io/forest/" class="" title="Utensil's Zettelkasten-style forest of evergreen notes on math and tech"><img src="images/library-book-svgrepo-com.svg" width="40" height="40"/></a>
-<a href="http://utensil.github.io/garden/" class="" title="Utensil's digital garden of Obsidian compatible notes via Quartz"><img src="images/gardener-work-svgrepo-com.svg" width="40" height="40"/></a>
-<a href="http://utensil.github.io/blog/" class="" title="Utensil's Hugo blog for math, tech and thoughts"><img src="images/notebook-pen-svgrepo-com.svg" width="40" height="40"/></a>
+<!-- <a href="http://utensil.github.io/garden/" class="" title="Utensil's digital garden of Obsidian compatible notes via Quartz"><img src="images/gardener-work-svgrepo-com.svg" width="40" height="40"/></a> -->
+<!-- <a href="http://utensil.github.io/blog/" class="" title="Utensil's Hugo blog for math, tech and thoughts"><img src="images/notebook-pen-svgrepo-com.svg" width="40" height="40"/></a> -->
 <a href="http://utensil.github.io/writings/" class="" title="Utensil's writings in Chinese (书写)"><img src="images/open-book-book-svgrepo-com.svg" width="40" height="40"/></a>
 <a href="https://github.com/utensil/poems/releases/tag/2025.04.13" class="" title="Utensil's selected classical Chinese poems (冶文斋诗选)"><img src="images/quill-ink-svgrepo-com.svg" width="40" height="40"/></a>
-<a href="http://utensil.github.io/tech/" class="" title="Utensil's technical posts in Chinese (mostly 2005-2020) (早年技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a>
+<!-- <a href="http://utensil.github.io/tech/" class="" title="Utensil's technical posts in Chinese (mostly 2005-2020) (早年技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a> -->
 <!-- <a href="https://utensil.bearblog.dev/" class="" title="My Bare Texts"><img src="images/bear-svgrepo-com.svg" width="40" height="40"/></a> -->
 </div>
 <!-- <a href="https://stackoverflow.com/u/200764" class="tooltipped tooltipped-se" aria-label="Stack Overflow: 200764">
