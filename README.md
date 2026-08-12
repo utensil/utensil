@@ -37,13 +37,6 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 - [Radicle](https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did%3Akey%3Az6Mkoi6L46Tr54sMQmctod6Q43VjYyLwBh8VwJvftMZwdiHt)
 <!-- - [Codeberg](https://codeberg.org/utensil) -->
 
-<p>
-<a href="https://github.com/utensil">
-<img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utensil&layout=compact&hide=Jupyter%20Notebook,vim%20script,Mathematica,C%23,javascript,typescript,coffeescript,jinja,jq,d2,css,less,vue,ruby,shell,makefile,cmake,xslt,haml,glsl,scss,erlang,c,html,typst,dockerfile,sed" /> -->
-</a>
-</p>
-
 **Programming Languages in use:** 
 
 <p>
@@ -105,6 +98,16 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 <a href="https://www.numenta.com/resources/research-publications/papers/"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/numenta.png" alt="NuPIC" title="NuPIC" width="80" height="80"/></a>
 <a href="https://github.com/gjoncas/Lacan-Mathemes"><img style="background-color: white; padding: 5px 5px 5px 5px" src="images/Lacan-Desire.png" alt="Lacan" title="Lacan" width="80" height="80"/></a>
 </p>
+
+<details>
+  <summary>Some GitHub stats</summary>
+<p>
+<a href="https://github.com/utensil">
+<img src="https://github-readme-stats-utensil.vercel.app/api?username=utensil&show_icons=true" alt="utensil" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utensil&layout=compact&hide=Jupyter%20Notebook,vim%20script,Mathematica,C%23,javascript,typescript,coffeescript,jinja,jq,d2,css,less,vue,ruby,shell,makefile,cmake,xslt,haml,glsl,scss,erlang,c,html,typst,dockerfile,sed" /> -->
+</a>
+</p>
+</details>
 
 <!--
 
