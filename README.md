@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Utensil
 
-[![](https://img.shields.io/badge/__utensil__-000000?logo=x&logoColor=white&style=flat)](https://www.twitter.com/_utensil_)
+<!-- [![](https://img.shields.io/badge/__utensil__-000000?logo=x&logoColor=white&style=flat)](https://www.twitter.com/_utensil_)
 [![](https://img.shields.io/badge/utensil-6364FF?logo=Mastodon&logoColor=white&style=flat)](https://mathstodon.xyz/@utensil)
 [![](https://img.shields.io/badge/iutensil-0285FF?logo=bluesky&logoColor=fff&style=flat)](https://bsky.app/profile/iutensil.bsky.social)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/201v2.svg)](https://utensil.betteruptime.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/201v2.svg)](https://utensil.betteruptime.com/?utm_source=status_badge) -->
 
 <div style="">
 <!-- <a href="https://github.com/utensil" class="" title="Github"><img src="images/github-svgrepo-com.svg" alt="Github" width="40" height="40"/></a> -->
@@ -16,6 +16,7 @@
 <!-- <a href="http://utensil.github.io/tech/" class="" title="Utensil's technical posts in Chinese (mostly 2005-2020) (早年技术博客)"><img src="images/telescope-svgrepo-com.svg" width="40" height="40"/></a> -->
 <!-- <a href="https://utensil.bearblog.dev/" class="" title="My Bare Texts"><img src="images/bear-svgrepo-com.svg" width="40" height="40"/></a> -->
 </div>
+
 <!-- <a href="https://stackoverflow.com/u/200764" class="tooltipped tooltipped-se" aria-label="Stack Overflow: 200764">
   <svg height="24" fill="#959da5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><path class="st0" d="M84.4 93.8V70.6h7.7v30.9H22.6V70.6h7.7v23.2z"></path><path class="st1" d="M38.8 68.4l37.8 7.9 1.6-7.6-37.8-7.9-1.6 7.6zm5-18l35 16.3 3.2-7-35-16.4-3.2 7.1zm9.7-17.2l29.7 24.7 4.9-5.9-29.7-24.7-4.9 5.9zm19.2-18.3l-6.2 4.6 23 31 6.2-4.6-23-31zM38 86h38.6v-7.7H38V86z"></path></svg>
 </a>
