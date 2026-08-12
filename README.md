@@ -42,6 +42,7 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 
 <p>
 <a href="https://leanprover-community.github.io/"><img src="images/lean-logo.svg" alt="lean" width="80" height="80"/></a>
+<a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="80" height="80"/></a>
 <a href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="80" height="80"/></a>
 <a href="https://en.cppreference.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
@@ -57,7 +58,6 @@ A public code forge is where I explore ideas, write stuff, contribute to or crea
 **Programming Languages to learn:** 
 
 <p>
-<a href="https://ziglang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="80" height="80"/></a>
 <a href="https://ocaml.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="80" height="80"/></a>
 <a href="https://gleam.run/"><img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="80" height="80"/></a>
 <a href="https://www.uiua.org/"><img src="images/uiua-logo.png" alt="uiua" width="80" height="80"/></a>
